@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<v2b>
+    <titre>Découverte du xml</titre>
+    <auteur nomcomplet="mbouopdaludovic" ville="paris">
+        <prenom>ludovic</prenom>
+        <Nom>Mbouopda</Nom>
+        <ville>Douala</ville>
+    </auteur>
+</v2b>

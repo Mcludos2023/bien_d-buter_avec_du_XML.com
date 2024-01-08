@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<formation editeur="Mc-ludos ">
+ <?xml-stylesheet href="monstyle.css" type="text/css" ?>
+    <formation langue="fr">
+        <titre>Découverte du xml</titre>
+        <auteur numero="1">
+            <prenom>ludovic</prenom>
+            <Nom>Mbouopda</Nom>
+            <ville>Douala</ville>
+        </auteur>
+        <auteur numero="2"/>
+        <commentaire>
+              une formation utile &amp; intéressante &lt; &gt;
+        </commentaire>
+    </formation>
+ <!-- ceci est un commentaire -->
+    <formation langue="en">
+        <titre> xml fondamentales</titre>
+        <auteur numero="1">
+            <prenom>charles</prenom>
+            <Nom>souop</Nom>
+            <ville>yaounde</ville>
+        </auteur>
+        <auteur numero="2">
+            <prenom>yvan</prenom>
+            <Nom>bouopda</Nom>
+            <ville>Krybi</ville>
+        </auteur>
+        <commentaire>
+              <![CDATA[hello << ou >> ou &]]>
+        </commentaire>
+    </formation>
+</formation>
